@@ -1,9 +1,0 @@
-opencv-python-headless
-numpy
-streamlit
-pandas
-scikit-learn
-matplotlib
-seaborn
-joblib
-xgboost
